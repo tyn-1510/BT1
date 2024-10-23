@@ -47,7 +47,7 @@ button:last-of-type {
   right: 15px;
 }
 
-/* Additional styles for button icons */
+
 button::before {
   font-family: 'FontAwesome';
   display: inline-block;
