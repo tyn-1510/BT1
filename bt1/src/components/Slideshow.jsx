@@ -6,6 +6,23 @@ const images = [
   "https://picsum.photos/300/200?image=1",
   "https://picsum.photos/300/200?image=2",
   "https://picsum.photos/300/200?image=3",
+  "https://picsum.photos/300/200?image=4",
+  "https://picsum.photos/300/200?image=5",
+  "https://picsum.photos/300/200?image=6",
+  "https://picsum.photos/300/200?image=7",
+  "https://picsum.photos/300/200?image=8",
+  "https://picsum.photos/300/200?image=9",
+  "https://picsum.photos/300/200?image=10",
+  "https://picsum.photos/300/200?image=11",
+  "https://picsum.photos/300/200?image=12",
+  "https://picsum.photos/300/200?image=13",
+  "https://picsum.photos/300/200?image=14",
+  "https://picsum.photos/300/200?image=15",
+  "https://picsum.photos/300/200?image=16",
+  "https://picsum.photos/300/200?image=17",
+  "https://picsum.photos/300/200?image=18",
+  "https://picsum.photos/300/200?image=19",
+  "https://picsum.photos/300/200?image=20",
 ];
 
 const Slideshow = () => {
